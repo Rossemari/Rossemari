@@ -1,6 +1,6 @@
-# Angel Llanos Herrera — Ingeniería Estadística (estudiante)
+# Rossemari Gajardo González — Ingeniería Estadística (estudiante)
 
-**R | Python | RShiny/Quarto**
+**R | Python | RShiny**
 
 ---
 
@@ -26,20 +26,14 @@
 
 ---
 
-## 🎓 Logros
-
-- **Ayudante — Control Estadístico de Procesos** · 1 semestre
-
----
-
 ## 📫 Contacto
 
-- **Email:** angel.llanos@alumnos.ucm.cl
+- **Email:** rossemari.gajardo@alumnos.ucm.cl
 
 ---
 
 ## 📈 Estadísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelTLH&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css&theme=tokyonight&cache_seconds=21600&v=2 "Lenguajes más usados")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rossemari&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css&theme=tokyonight&cache_seconds=21600&v=2 "Lenguajes más usados")
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelTLH&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600&v=2 "Estadísticas generales")
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rossemari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=21600&v=2 "Estadísticas generales")
